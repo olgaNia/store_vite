@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Beats Studio3",
+    "price": 207,
+    "imgUrl": "/images/Beats_Studio3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bose QuietComfort 45",
+    "price": 329,
+    "imgUrl": "/images/Bose.jpg"
+  },
+  {
+    "id": 3,
+    "name": "JBL Live 660NC",
+    "price": 150,
+    "imgUrl": "/images/JBL.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Skullcandy Crusher ",
+    "price": 112,
+    "imgUrl": "/images/Skullcandy.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sony WH-1000XM5",
+    "price": 400,
+    "imgUrl": "/images/Sony5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-XB910N Extra BASS",
+    "price": 198,
+    "imgUrl": "/images/Sony910.jpg"
+  }
+]
