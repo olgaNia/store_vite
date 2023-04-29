@@ -27,7 +27,6 @@ export function StoreItem({id, name, price, imgUrl}: StoreItemProps) {
                 style={{objectFit: "contain"}}
             />
                 <Card.Body className="d-flex flex-column">
-
                     <Card.Title className="d-flex justify-content-between aline-items-baseline mb-3">
                         <span>{name}</span>
                         <span>{formatCurrency(price)}</span>
